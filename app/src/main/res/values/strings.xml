@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Valentine Test</string>
+    <string name="try_again">Try Again?</string>
+    <string name="test">test</string>
+    <string name="crush_name">Crush name</string>
+    <string name="your_name">Your name</string>
+</resources>
